@@ -58,7 +58,6 @@ def censor_list(text, list_of_words):
 
 print(censor_list(email_two, proprietary_terms))
 
-
 # 3. The most recent email update has concerned Mr. Cloudy, but not for the reasons you might think.
 # He tells you, “this is too alarmist for the Board of Investors! Let’s tone down the negative language and
 # remove unnecessary instances of ‘negative words.’”
